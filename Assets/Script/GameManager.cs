@@ -21,5 +21,10 @@ public class GameManager : MonoBehaviour
         {
             Debug.Log("Test");
         }
+
+        for(int i = 0;i < 10;i++)
+        {
+            Debug.Log("Test2");
+        }
     }
 }
